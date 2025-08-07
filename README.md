@@ -1,2 +1,2 @@
 # EE2301
-EDC Lab Simulations
+EDC Lab Simulations and Experiments
