@@ -1,6 +1,6 @@
 LTspice 24.1.7 for Windows
 Circuit: Z:\home\agam\Github\EE2301\sims\sim1\bjt_npn.net
-Start Time: Thu Aug  7 23:43:09 2025
+Start Time: Fri Aug  8 19:48:27 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -18,7 +18,7 @@ method = trap
 .step VCE=4 
 .step VCE=4.5 
 .step VCE=5 
-Total elapsed time: 0.509 seconds.
+Total elapsed time: 0.454 seconds.
 
 Files loaded:
 Z:\home\agam\Github\EE2301\sims\sim1\bjt_npn.net

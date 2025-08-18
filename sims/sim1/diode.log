@@ -1,6 +1,6 @@
 LTspice 24.1.7 for Windows
 Circuit: Z:\home\agam\Github\EE2301\sims\sim1\diode.net
-Start Time: Thu Aug  7 23:39:12 2025
+Start Time: Sun Aug 10 19:22:34 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -8,7 +8,7 @@ temp = 27
 method = trap
 .OP point found by inspection.
 .step 
-Total elapsed time: 0.109 seconds.
+Total elapsed time: 0.155 seconds.
 
 Files loaded:
 Z:\home\agam\Github\EE2301\sims\sim1\diode.net
