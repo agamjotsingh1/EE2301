@@ -16,3 +16,4 @@ vto = 1.38
 gm = 2 * Id / (vgs - vto)
 
 print(gm * rd)
+print(1/gm)
