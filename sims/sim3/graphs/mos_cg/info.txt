@@ -1,0 +1,4 @@
+bandwidth = 219.4 KHz
+mid band gain (experimental) = 233.36
+mid band gain (theory) = 241.13
+rout = 1k ohm

@@ -1,12 +1,18 @@
 import numpy as np
 
 kp = 76.2
-Id =  6.107e-3
-ro = 1000
-rl  = 1000
+Id = 361.7e-6
+lam = 0.002
+ro = 1/(lam*Id)
+
+rl  = 1000000
 reff =  ro * rl / (ro + rl)
-vgs = 8.8926 - 6.107
+
+rd = 1000
+reff = rd * reff/(rd + reff)
+
+vgs = 5 - 3.617
 vto = 1.38
 gm = 2 * Id / (vgs - vto)
 
-print(gm * reff)
+print(gm * rd)

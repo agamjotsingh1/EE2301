@@ -1,0 +1,5 @@
+bandwidth = 3 MHz
+mid band gain (experimental) = 80.36
+mid band gain (theory) = 79.12
+transient gain = 77.62
+rout = 1k ohm
