@@ -9,6 +9,6 @@ rout exp = 235
 rout theory = 235
 
 rin exp = 10167.2
-rin theory =  9949.37
+rin theory =  10356.2
     Re = RE*RL/(RE + RL)
     Rin = 1/(1/R1 + 1/R2 + 1/(beta*Re))

@@ -7,4 +7,5 @@ rin thoery = 500
 rin exp = 501.04
 
 rout theory = 500
+    rout = Rs || 1/gm
 rout exp = 499.98
